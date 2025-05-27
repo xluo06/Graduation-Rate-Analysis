@@ -1,4 +1,4 @@
-# STA141A: Graduation Rate Analysis
+# Graduation Rate Analysis
 
 This project investigates factors influencing college graduation rates using the `College` dataset from the `ISLR` R package. It was completed as part of the STA141A: Fundamentals of Statistical Data Science course at UC Davis.
 
@@ -6,7 +6,7 @@ We applied both supervised learning (linear regression) and unsupervised learnin
 
 ---
 
-## 📌 Research Questions
+## Research Questions
 
 1. Which attribute has the most impact on the graduation rate? How does it impact it?
 2. Is a linear regression model a good fit for the data?
@@ -14,7 +14,7 @@ We applied both supervised learning (linear regression) and unsupervised learnin
 
 ---
 
-## 🛠 Requirements
+## Requirements
 
 You will need:
 
